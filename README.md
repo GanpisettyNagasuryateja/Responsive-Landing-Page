@@ -8,7 +8,7 @@ Build a clean, responsive landing page with a header, hero section, and footer.
 2.Setup basic HTML5 structure and link CSS.<br>
     Used the HTML5 (<!DOCTYPE html>, <html>, <head>, <body>).<br>
     Linked CSS Stylesheet using:<br>
-    <link rel="stylesheet" href="style.css"><br>
+    <link rel=stylesheet href=style.css><br>
 3.Add a header with logo and nav links.<br>
     Created a header contaning:<br>
     Logo(MyLogo)<br>

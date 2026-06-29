@@ -2,7 +2,7 @@
 <h1>Objective</h1>
 Build a clean, responsive landing page with a header, hero section, and footer.
 <h1>Procedure</h1>
-1.Create index.html and style.css.
+1.Create index.html and style.css.<br>
     Created an HTML File index.Html.
     Created a CSS file style.css.
 2.Setup basic HTML5 structure and link CSS.
